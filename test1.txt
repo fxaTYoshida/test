@@ -1,3 +1,4 @@
 mainで作成
 localで記入
 branchで記述
+mainをマージした後記入
